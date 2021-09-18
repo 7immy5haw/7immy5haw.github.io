@@ -1,0 +1,16 @@
+# Jimmy's Homepage
+
+This is a personal homepage. Some study notes will be posted here.
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+<div align="center">
+ <span id="busuanzi_container_site_pv" style="font-family:Consolas;color:Silver;font-size:12px;">
+  View:<span id="busuanzi_value_site_pv" style="font-family:Consolas;color:Silver;font-size:12px;"></span>
+ </span>
+ <!-- uv的方式，单个用户连续点击n篇文章，只记录1次访客数 -->
+ <span id="busuanzi_container_site_uv" style="font-family:Consolas;color:Silver;font-size:12px;">
+  User:<span id="busuanzi_value_site_uv" style="font-family:Consolas;color:Silver;font-size:12px;"></span>
+ </span>
+</div>
+
